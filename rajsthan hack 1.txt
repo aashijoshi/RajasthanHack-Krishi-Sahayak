@@ -1,0 +1,14 @@
+1. Farmer resourece management
+		hectre 
+			crop
+				approx seeds
+					fertilizers
+					pesicides
+				soil 
+				air
+				temp
+				
+2.  Crop  prices
+
+3. future scope
+  	soil gain mineral
